@@ -1,0 +1,32 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Mac 系统自动生成的文件
+.DS_Store
+._*
+Thumbs.db
+
+# IDEA 配置文件（建议忽略，个人配置除外）
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+
+# 构建与编译文件
+out/
+target/
+build/
+*.class
+
+# 日志文件
+logs/
+*.log
