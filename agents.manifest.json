@@ -6,8 +6,8 @@
       "description": "合规驾驶舱",
       "agentsPath":"LF3919/AGENTS.md",
       "serviceUnits": [
-        { "serviceUnitId": "LB47.02_complycockpit", "description": "合规驾驶舱后端流程服务","agentsPath":"LF3919/Backend/services/LF39_complycockpit/serivce.md" },
-        { "serviceUnitId": "LB47.02_wmcomplymnui",  "description": "合规驾驶舱前端服务","agentsPath":"LF3919/Backend/services/LF39_wmcomplymnui/serivce.md"  }
+        { "serviceUnitId": "LB47.02_complycockpit", "description": "合规驾驶舱后端流程服务","agentsPath":"LF3919/Backend/services/LF39_complycockpit/service.md" },
+        { "serviceUnitId": "LB47.02_wmcomplymnui",  "description": "合规驾驶舱前端服务","agentsPath":"LF3919/Backend/services/LF39_wmcomplymnui/service.md"  }
       ]
     }
   ]
